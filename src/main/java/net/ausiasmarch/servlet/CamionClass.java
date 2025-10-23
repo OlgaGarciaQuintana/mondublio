@@ -1,5 +1,5 @@
 package net.ausiasmarch.servlet;
 
-public class CamionClass extends VehiculoAbstractClass implements VehiculoInterface{
+public class CamionClass extends VehiculoAbstractClass implements VehiculoInterface {
     
 }
